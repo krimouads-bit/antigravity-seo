@@ -60,12 +60,12 @@ To make Antigravity SEO available across all your projects on this computer:
 #### Windows (PowerShell):
 ```powershell
 # Clone directly into your global Antigravity skills directory:
-git clone https://github.com/VOTRE_PSEUDO/antigravity-seo.git "$env:USERPROFILE\.gemini\config\skills\antigravity-seo"
+git clone https://github.com/krimouads-bit/antigravity-seo.git "$env:USERPROFILE\.gemini\config\skills\antigravity-seo"
 ```
 
 #### macOS / Linux:
 ```bash
-git clone https://github.com/VOTRE_PSEUDO/antigravity-seo.git ~/.gemini/config/skills/antigravity-seo
+git clone https://github.com/krimouads-bit/antigravity-seo.git ~/.gemini/config/skills/antigravity-seo
 ```
 
 *Antigravity automatically discovers and activates the skill via progressive disclosure!*
@@ -79,7 +79,7 @@ To include Antigravity SEO directly in a repository and share it with your team:
 ```bash
 # Inside your project root:
 mkdir -p .agents/skills
-git clone https://github.com/VOTRE_PSEUDO/antigravity-seo.git .agents/skills/antigravity-seo
+git clone https://github.com/krimouads-bit/antigravity-seo.git .agents/skills/antigravity-seo
 ```
 
 ---
